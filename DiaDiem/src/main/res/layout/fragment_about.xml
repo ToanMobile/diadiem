@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffff0007"
+        android:textSize="22dp"
+        android:layout_marginBottom="20dp"
+        android:text="Một số lưu ý khi sử dụng ứng dụng:"/>
+    <ImageButton
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/idea_48x48"/>
+<TextView
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#ff000000"
+    android:text="Dùng ngón tay vuốt từ bên trái màn hình để kích hoạt Silde Menu và vuốt từ giữa màn hình về bên trái để đóng Slide Menu."/>
+    <ImageButton
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/idea_48x48"/>
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff000000"
+        android:text="Ứng dụng cần kết nối Internet mạnh và ổn định để có thể hoạt động tốt nhất.Internet yếu hoặc mất có thể dẫn đến tình trạng ứng dụng tải thông tin quá lâu hoặc bị đóng đột ngột."/>
+    <ImageButton
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/idea_48x48"/>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff000000"
+        android:text="Chức năng Tìm Kiếm địa điểm"/>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff000000"
+        android:text=" Bạn phải nhập chính xác tên địa điểm cần tìm"/>
+     <TextView
+         android:layout_gravity="center_horizontal"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textColor="#ff000000"
+         android:text="  Nhập có dấu nếu địa điểm là quán ăn việt"/>
+    <ImageButton
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff000000"
+        android:layout_height="wrap_content"
+        android:background="@drawable/idea_48x48"/>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff000000"
+        android:text="Bật GPS để sử dụng Google Map"/>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff000000"
+        android:text=" Hiển thị vị trí của bạn"/>
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:textColor="#ff000000"
+         android:text=" Chỉ đường đến địa điểm ăn uống bạn cần đến"/>
+   </LinearLayout>

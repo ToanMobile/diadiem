@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center_vertical">
+    <TextView
+        android:layout_marginTop="-100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:textSize="25dp"
+        android:textColor="#ff0052ff"
+        android:text="Nhóm phát triển phần mềm:
+             ITC_Android"/>
+    <LinearLayout
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+<ImageButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/contacts"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+    <TextView
+        android:textSize="22dp"
+        android:textColor="#ffff0007"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Huỳnh Văn Toàn"/>
+        <TextView
+            android:textSize="20dp"
+            android:textColor="#ff000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Điện thoại:01676542546"/>
+        <TextView
+            android:textSize="20dp"
+            android:textColor="#ff000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email:toankul@gmail.com"/>
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

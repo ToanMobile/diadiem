@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiaDiem.iml" filepath="$PROJECT_DIR$/DiaDiem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiaDiem toan.iml" filepath="$PROJECT_DIR$/DiaDiem toan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiaDiem/DiaDiem-DiaDiem.iml" filepath="$PROJECT_DIR$/DiaDiem/DiaDiem-DiaDiem.iml" />
+    </modules>
+  </component>
+</project>
+
